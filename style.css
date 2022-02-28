@@ -1,0 +1,89 @@
+body{
+    background-color: whitesmoke;
+    font-family: 'Baloo 2', cursive;
+}
+
+.navbar-custom {
+    background-color: #0C1229;
+    color: white;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: white;
+}
+
+.navbar-custom .nav-link{
+    color: white;
+}
+
+
+
+    /* Description text */
+    .carousel-caption h5 {
+
+    font-size:      3em;
+    color:          white !important;
+    font-weight: 300;
+    font: bold;
+    }
+    /* Button text */
+    .carousel-caption p {
+    font-family:    Garamond;
+    font-size:      2em;
+    color:          white;
+    }
+
+  footer{
+      background-color: #0C1229;
+      color: white;
+  }
+
+  .fb-contact{
+    background-color: #0C3566;
+    ;
+    border-radius: 0.7em;
+    box-shadow: 0.3em 0.3em 0.7em #00000015;
+    transition: border 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+   
+    margin: 10px;
+    padding: 10px;
+  }
+
+  .fb-about{
+    /* border-radius: 0.7em;
+    box-shadow: 0.3em 0.3em 0.7em #00000015;
+    transition: border 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    border: rgb(250, 250, 250) 0.2em solid; */
+    margin: 10px;
+    padding: 10px;
+    text-align: center; 
+  }
+
+  .add-link{
+    border-radius: 0.7em;
+    box-shadow: 0.3em 0.3em 0.7em #00000015;
+    transition: border 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    border: rgb(250, 250, 250) 0.2em solid;
+    margin-bottom: 20px;
+    padding: 10px;
+    text-align: center; 
+  }
+  
+  .fb-reg-form{
+    border-radius: 0.7em;
+    box-shadow: 0.3em 0.3em 0.7em #00000015;
+    transition: border 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    border: rgb(250, 250, 250) 0.2em solid;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px;  
+    background-color: #0C3566;
+    color: white;
+
+  }
+
+  .form-group{
+        padding: 10px;
+  }
+
